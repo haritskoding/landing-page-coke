@@ -1,3 +1,3 @@
 # landing-page-coke
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/haritskoding/landing-page-coke/blob/master/images/landingpage.png)
